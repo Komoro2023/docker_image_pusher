@@ -1,2 +1,3 @@
 #支持私库
 condaforge/mambaforge
+ultralytics/ultralytics:latest
