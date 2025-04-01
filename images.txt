@@ -1,3 +1,4 @@
 #支持私库
 condaforge/mambaforge
-ultralytics/ultralytics
+#ultralytics/ultralytics
+ultralytics/ultralytics:latest-conda
