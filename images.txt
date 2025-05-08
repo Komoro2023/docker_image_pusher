@@ -2,4 +2,4 @@
 condaforge/mambaforge
 #ultralytics/ultralytics
 ultralytics/ultralytics:latest-conda
-ultralytics/ultralytics:v8
+ultralytics/ultralytics:v8.3.0
